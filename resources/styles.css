@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+.header {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+#phone {
+    padding-top: 20px;
+}
+
+#info {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
